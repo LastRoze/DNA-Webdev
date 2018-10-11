@@ -3,7 +3,7 @@
 
 <p align="center">
 	<a href="https://discord.gg/RSC9b4n" alt="Join us on Discord !">
-		<img src="https://img.shields.io/discord/379599906786115594.svg" /></a>
+		<img src="https://img.shields.io/discord/83509127040471040.svg" /></a>
 	<a href="https://github.com/LastRoze/DNA-Webdev/releases" alt="Total Download">
 		<img src="https://github.com/LastRoze/DNA-Webdev/total.svg" /></a>
 	<a href="https://github.com/LastRoze/DNA-Webdev/tree/master" alt="This Project is Maintained">
