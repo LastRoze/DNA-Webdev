@@ -9,5 +9,5 @@
 	<a href="https://github.com/LastRoze/DNA-Webdev/tree/master" alt="This Project is Maintained">
 		<img src="https://img.shields.io/maintenance/yes/2018.svg" /></a>
 	<a href="https://github.com/LastRoze/DNA-Webdev/graphs/contributors" alt="Contributor List">
-		<img src="https://img.shields.io/github/LastRoze/DNA-Webdev.svg" /></a>
+		<img src="https://img.shields.io/github/contributors/LastRoze/DNA-Webdev.svg" /></a>
 </p>
