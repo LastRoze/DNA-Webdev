@@ -1,4 +1,3 @@
-## Initial Attempt
 <p align="center"><img src="https://i.imgur.com/VJDeG4D.jpg"></p>
 <h1 align="center">Project Edkoyo</h1>
 
